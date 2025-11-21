@@ -1,0 +1,42 @@
+# JMeter resultados
+jmeter/resultados/*.jtl
+jmeter/resultados/*.log
+jmeter/resultados/**/html-*/
+jmeter/resultados/**/content/
+jmeter/resultados/**/sbadmin2-*/
+
+# Mantener estructura de carpetas
+!jmeter/resultados/.gitkeep
+!jmeter/resultados/html-reports/.gitkeep
+
+# JMeter logs
+jmeter.log
+jmeter.log.*
+
+# JMeter cache
+jmeter/bin/*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporales
+*.tmp
+*.bak
+*.backup
+
+# Java
+*.class
+*.jar
+*.war
+
+# Reportes antiguos (opcional - descomentar si quieres guardar reportes)
+# !jmeter/resultados/example-report/
