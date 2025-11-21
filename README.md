@@ -5,6 +5,7 @@ Proyecto de pruebas de performance y carga utilizando Apache JMeter para validar
 ## Sitio Web de mi portafolio testeado
 
 **URL:** https://portafolio-rosafg.netlify.app/
+![Portafolio](02_home_viewport_20251120_001448.png)
 
 ## Objetivo del Proyecto
 
